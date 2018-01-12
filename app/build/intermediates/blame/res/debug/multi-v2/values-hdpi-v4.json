@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/francesco/StudioProjects/javacv-android-camera-preview/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

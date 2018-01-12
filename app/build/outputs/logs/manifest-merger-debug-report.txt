@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4ee68643bec3b9f50b7b3c78d4dc89b2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a93b5e3eccd3b85b510f15bb8c789b5d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9078e20980521050a867a076a995d282/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a9ff160a925ad2996006c41e9f595f89/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/40c692dc1983159290862570112b71ab/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8ad5bb09e7f4435d7b54e44ac8ef8017/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c529f0c2a943fbdfca3b203d5d5a051e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/28f1c81d6eea95e199bd7e00b3b43abb/AndroidManifest.xml:17:1-31:12
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+	package
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:2:5-50
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:1-38:12
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:4:5-65
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:4:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#ANDROID.PERMISSION.READ_EXTERNAL_STORAGE
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:7:22-65
+uses-feature#android.hardware.camera
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:9:5-60
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:9:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:10:5-70
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:10:19-67
+uses-feature#android.hardware.camera.front
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:11:19-63
+uses-feature#android.hardware.camera.front.autofocus
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:12:19-73
+application
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:14:5-36:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4ee68643bec3b9f50b7b3c78d4dc89b2/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4ee68643bec3b9f50b7b3c78d4dc89b2/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a93b5e3eccd3b85b510f15bb8c789b5d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a93b5e3eccd3b85b510f15bb8c789b5d/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9078e20980521050a867a076a995d282/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9078e20980521050a867a076a995d282/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a9ff160a925ad2996006c41e9f595f89/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a9ff160a925ad2996006c41e9f595f89/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/40c692dc1983159290862570112b71ab/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/40c692dc1983159290862570112b71ab/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8ad5bb09e7f4435d7b54e44ac8ef8017/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8ad5bb09e7f4435d7b54e44ac8ef8017/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c529f0c2a943fbdfca3b203d5d5a051e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c529f0c2a943fbdfca3b203d5d5a051e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/28f1c81d6eea95e199bd7e00b3b43abb/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/28f1c81d6eea95e199bd7e00b3b43abb/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:19:9-54
+	android:largeHeap
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:18:9-33
+	android:icon
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:21:9-40
+activity#org.bytedeco.javacv.android.example.MainActivity
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:23:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:27:27-74
+activity#org.bytedeco.javacv.android.example.RecordActivity
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:30:9-32:52
+	android:screenOrientation
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:32:13-49
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:31:13-43
+activity#org.bytedeco.javacv.android.example.OpenCvActivity
+ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:33:9-35:52
+	android:screenOrientation
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:35:13-49
+	android:name
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml:34:13-43
+uses-sdk
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4ee68643bec3b9f50b7b3c78d4dc89b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4ee68643bec3b9f50b7b3c78d4dc89b2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a93b5e3eccd3b85b510f15bb8c789b5d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a93b5e3eccd3b85b510f15bb8c789b5d/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9078e20980521050a867a076a995d282/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9078e20980521050a867a076a995d282/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a9ff160a925ad2996006c41e9f595f89/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a9ff160a925ad2996006c41e9f595f89/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/40c692dc1983159290862570112b71ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/40c692dc1983159290862570112b71ab/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8ad5bb09e7f4435d7b54e44ac8ef8017/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8ad5bb09e7f4435d7b54e44ac8ef8017/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c529f0c2a943fbdfca3b203d5d5a051e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c529f0c2a943fbdfca3b203d5d5a051e/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/28f1c81d6eea95e199bd7e00b3b43abb/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/28f1c81d6eea95e199bd7e00b3b43abb/AndroidManifest.xml:21:5-23:58
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		ADDED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+		INJECTED from /home/francesco/StudioProjects/javacv-android-camera-preview/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4ee68643bec3b9f50b7b3c78d4dc89b2/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/4ee68643bec3b9f50b7b3c78d4dc89b2/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a93b5e3eccd3b85b510f15bb8c789b5d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/a93b5e3eccd3b85b510f15bb8c789b5d/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9078e20980521050a867a076a995d282/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/9078e20980521050a867a076a995d282/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a9ff160a925ad2996006c41e9f595f89/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/a9ff160a925ad2996006c41e9f595f89/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/40c692dc1983159290862570112b71ab/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/40c692dc1983159290862570112b71ab/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8ad5bb09e7f4435d7b54e44ac8ef8017/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8ad5bb09e7f4435d7b54e44ac8ef8017/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c529f0c2a943fbdfca3b203d5d5a051e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/c529f0c2a943fbdfca3b203d5d5a051e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/28f1c81d6eea95e199bd7e00b3b43abb/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/28f1c81d6eea95e199bd7e00b3b43abb/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/francesco/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/b96ee707973113af2d846b51b561db21/AndroidManifest.xml:26:9-47
